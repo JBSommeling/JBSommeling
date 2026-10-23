@@ -1,4 +1,6 @@
-Hej! I'm a nerd for clean code. Writing functional code is fun; writing elegant, readable and maintainable code while staying pragmatic is pure joy. Who doesn't like a good paradox?
+Hej! 
+
+I'm a nerd for clean code. Writing functional code is fun; writing elegant, readable and maintainable code while staying pragmatic is pure joy. Who doesn't like a good paradox?
 
 **The code is the easy part.** The hard part is the funnel: who comes, who stays, who leaves, and why. So beyond the frontend and the database, I care about the pipelines that ship your code, the telemetry that shows where users get stuck, and the monitoring that tells you something broke before your customers do. I've also served as Security Officer, implementing and maintaining an ISO 27001-compliant ISMS.
 
