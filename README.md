@@ -1,23 +1,20 @@
-Freelance full-stack engineer in Sundsvall, Sweden. Six years across AI platforms, e-learning, payroll and CRM — usually joining when a platform has outgrown its first architecture, or a team needs an extra pair of hands.
+Freelance full-stack engineer in Sundsvall, Sweden.
 
-**The code is the easy part.** The hard part is the funnel: who comes, who stays, who leaves, and why.
+Hej! I'm a nerd for clean code. Writing functional code is fun; writing elegant, readable and maintainable code while staying pragmatic is pure joy. Who doesn't like a good paradox?
+
+**The code is the easy part.** The hard part is the funnel: who comes, who stays, who leaves, and why. So beyond the frontend and the database, I care about the pipelines that ship your code, the telemetry that shows where users get stuck, and the monitoring that tells you something broke before your customers do. I've also served as Security Officer, implementing and maintaining an ISO 27001-compliant ISMS.
 
 🌱 **Cooking something cool right now** — it involves reforestation. More soon.
 
 #### 🧰 Stack
-Laravel · Vue · React · Go · AWS · OpenTelemetry
+Laravel · Go · React · Vue · GraphQL · Tailwind · AWS · OpenTelemetry — fuelled by tea 🍵
 
-#### 🛠️ Open source
-| | |
-|---|---|
-| [**Scannr**](https://github.com/JBSommeling/scannr) | BFS domain crawler that finds broken links before your users do. Also a GitHub Action. |
-| [**Agent**](https://github.com/JBSommeling/agent) | PHP user agent parser with optional Laravel integration. 11k+ installs. |
-| [**Blade Tabler Icons**](https://github.com/JBSommeling/blade-tabler-icons) | 4,000+ Tabler icons as Laravel Blade components. 10k+ installs. |
-| [**Dependency Curator**](https://github.com/JBSommeling/dependency-curator) | Consolidates dependency updates into one well-documented PR. npm, Composer and Go. |
-| [**MergeMetrics**](https://github.com/JBSommeling/merge-metrics) | Repository health analysis: PR bottlenecks, reviewer load, bus factor. No SaaS, just GitHub. |
-| [**Claude Config**](https://github.com/JBSommeling/claude-config) | Self-routing Claude Code setup: Opus for reasoning, Sonnet for implementation, Haiku for I/O. |
+#### 🤝 Working together
+- **Handmade websites** — built from the ground up, no templates.
+- **Code counsel** — a senior read on your architecture and stack decisions.
+- **A trusted pair of hands** — embedded in your team for a sprint or a season.
+
+Whether you need something built, a decision pressure-tested, or a senior engineer alongside your team: ingen fara!
 
 #### 📫 Get in touch
 [sommeling.dev](https://sommeling.dev) · [LinkedIn](https://www.linkedin.com/in/jesse-sommeling/) · [contact@sommeling.dev](mailto:contact@sommeling.dev)
-
-Open to contract work, fractional senior roles and code counsel.
