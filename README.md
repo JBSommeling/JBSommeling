@@ -10,7 +10,7 @@ Hej! I'm a nerd for clean code. Writing functional code is fun; writing elegant,
 Laravel · Go · React · Vue · GraphQL · Tailwind · AWS · OpenTelemetry — fuelled by tea 🍵
 
 #### 🤝 Working together
-- **Handmade websites** — built from the ground up, no templates.
+- **Custom websites** — designed and built from scratch, no templates.
 - **Code counsel** — a senior read on your architecture and stack decisions.
 - **A trusted pair of hands** — embedded in your team for a sprint or a season.
 
