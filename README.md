@@ -1,4 +1,4 @@
-Hej! 
+#### Hej! 
 
 I'm a nerd for clean code. Writing functional code is fun; writing elegant, readable and maintainable code while staying pragmatic is pure joy. Who doesn't like a good paradox?
 
